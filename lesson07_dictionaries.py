@@ -32,9 +32,3 @@ del student["age"]
 print(student)
 
 #printing stars in pyramid shape
-print("*",
-"**",
-"***",
-"****",
-"*****")
-
