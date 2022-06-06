@@ -1,0 +1,14 @@
+this is a normal text file 
+learning python is fun 
+today is a windy day
+open file=.open()
+close file=.close()
+a=append=.append()
+w=write file=.write()
+r=read file=.read()
+seek=.seek('A'),.seek(5)
+tell=tell""-tell what line
+read line=.read line()
+t =opens file in text mode
+b=opens in binary mode
++opens a file for updating(reading and writing)
